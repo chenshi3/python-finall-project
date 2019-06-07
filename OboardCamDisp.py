@@ -6,7 +6,7 @@
 #
 # WARNING! All changes made in this file will be lost!
 
-# 改文件里定义了Ui_MainWindow类，该类里主要是初始化了GUI界面的大部分控件
+# 该文件里定义了Ui_MainWindow类，该类里主要是初始化了GUI界面的大部分控件
 
 from PyQt5 import QtCore, QtGui, QtWidgets
 
